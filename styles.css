@@ -1,0 +1,35 @@
+
+h1 {
+  background-color: green;
+}
+
+.example {
+  background-color: red;
+}
+
+[data-color="purple"] {
+  background-color: plum;
+}
+
+#num1 {
+  background-color: blue;
+}
+
+div a {
+  background-color: yellow;
+}
+
+ul > li {
+  background-color: orange;
+}
+
+p.intro {
+  background-color: pink;
+}
+
+section#box[data-theme="dark"] > h2.title {
+  background-color: lightskyblue;
+}
+
+
+
