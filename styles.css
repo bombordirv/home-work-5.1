@@ -31,5 +31,9 @@ section#box[data-theme="dark"] > h2.title {
   background-color: lightskyblue;
 }
 
+div.container > h3 {
+  background-color: lightgreen;
+}
+
 
 
